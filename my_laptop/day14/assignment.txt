@@ -1,0 +1,4 @@
+1.accept employee details & store in a particular file
+2.read all employee details
+3.read details from specific postion 
+4.add new data in existing file
